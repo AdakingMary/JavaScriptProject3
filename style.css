@@ -1,0 +1,22 @@
+#change-color-btn {
+  border-radius: 5rem;
+  background-color: white;
+  font-style: bold;
+  font-size: medium;
+  color: blue;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+#color-box {
+  width: 100px;
+  height: 100px;
+  background-color: crimson;
+  margin-bottom: 10px;
+}
